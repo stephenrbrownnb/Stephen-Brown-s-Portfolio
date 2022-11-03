@@ -10,7 +10,7 @@ Created a portfolio with a unique picture to me, a bit of information about me a
 Site can be found at https://stephenrbrownnb.github.io/Stephen-Brown-s-Portfolio/
 Site can be navigated using the three links at the top  of the page.  
 
-![screenshot](assets/images/screenshot.jpg)
+![screenshot](assets/images/screenshot.JPG)
 
 ## License
 
