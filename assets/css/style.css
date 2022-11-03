@@ -41,9 +41,11 @@ nav a {
   text-decoration: none;
  text-align:right;
 }
-
+p {
+  text-align: justify;
+}
 img {
-  padding:60px;
+  padding:10px;
 }
 
 main {
@@ -61,7 +63,7 @@ footer {
   margin-top: auto;
 }
 
-.portfolio {
+.portfolio, .aboutme {
   flex: 1;
   background-color:var(--white);
   padding: 50px;
@@ -78,8 +80,14 @@ footer {
   flex: 0 0 300px;
   box-shadow: 10px 10px 5px #aaaaaa;
   margin: 20px;
+  width:340px;
 }
-
+.site img {
+  width:100%;
+  height:auto;
+  border:0px;
+  padding:0px;
+}
 form {
   
   margin: 0 auto;
